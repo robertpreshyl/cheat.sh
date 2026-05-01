@@ -8,3 +8,10 @@ typescript
 venv/
 bin/upstream
 upstream/
+*.sql
+*.dump
+.env
+*.pem
+*.key
+node_modules/
+__pycache__/
